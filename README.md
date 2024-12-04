@@ -16,7 +16,9 @@ Model Building: Train and evaluate a machine learning model to predict churn.
 
 # File Structure
 
-telecom_churn_analysis.ipynb: The main Jupyter Notebook for this project.
+intro_data_project2.ipynb: The main Jupyter Notebook for this project.
+
+telco-customer-churn.csv: The CSV file to be analyzed for the project.
 
 requirements.txt: A list of Python packages needed.
 
